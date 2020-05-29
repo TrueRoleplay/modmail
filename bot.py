@@ -100,9 +100,7 @@ class ModmailBot(commands.Bot):
 
     def startup(self):
         logger.line()
-        logger.info("┌┬┐┌─┐┌┬┐┌┬┐┌─┐┬┬")
-        logger.info("││││ │ │││││├─┤││")
-        logger.info("┴ ┴└─┘─┴┘┴ ┴┴ ┴┴┴─┘")
+        logger.info("Rojin")
         logger.info("v%s", __version__)
         logger.info("Authors: kyb3r, fourjr, Taaku18")
         logger.line()
